@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, Tudo bem? Meu nome é Daniel seja bem vindo ao meu perfil no github</h1>
+<h1 align="center">Oi 👋, Tudo bem? Meu nome é Daniel, seja bem vindo(a) ao meu perfil no github</h1>
 <h3 align="center">Sou um estudante da área de tecnologia apaixonado por desenvolvimento</h3>
 <p font-size="1px">De São luis-MA<br/>19anos<br/>Cursando Sistemas de Informação
 <p align="left>
