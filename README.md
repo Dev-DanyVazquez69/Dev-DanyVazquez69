@@ -17,7 +17,7 @@ src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="
   <a href = "mailto:danyv7818@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/daniel-dos-santos-pessoa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Dev-DanyVazquez69/Dev-DanyVazquez69/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
