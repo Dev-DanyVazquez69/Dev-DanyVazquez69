@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Tudo bem? Meu nome é Daniel, seja bem vindo(a) ao meu perfil no github</h1>
 <img align="center" alt="gif-kakashi" src="https://c.tenor.com/wgoPpUqBxNwAAAAC/hi-anime.gif" height="90" widht="50">
 <h3 align="center">Sou um estudante da área de tecnologia procuro sempre me desenvolver nas áreas de programação, infraestrutura e segurança</h3>
-<p color ="blue" font-size="1px">De São luis-MA<br/>19 anos<br/>Cursando Sistemas de Informação
+<p color ="blue" font-size="1px">De São luis-MA<br/>21 anos<br/>Cursando Sistemas de Informação
 <p align="left>
 <h3 align="left">Linguagens e ferramentas que já ultilizei ou estudei:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img 
